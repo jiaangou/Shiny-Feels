@@ -1,0 +1,91 @@
+,time,Name,Rating,Notes
+1,1,Bob,0.2193894535,Nothing
+2,1,Mary,0.08121388705,Nothing
+3,1,Inoki,-0.1524274334,Had ice cream
+4,2,Bob,1.441312906,Nothing
+5,2,Mary,0.3124568888,Nothing
+6,2,Inoki,0.3506047306,Nothing
+7,3,Bob,0.4262991485,Nothing
+8,3,Mary,0.5176731142,Nothing
+9,3,Inoki,-0.2243873382,Nothing
+10,4,Bob,0.09502068748,Nothing
+11,4,Mary,-0.3212839451,Nothing
+12,4,Inoki,-0.4552582381,Nothing
+13,5,Bob,0.3582329967,Had ice cream
+14,5,Mary,0.4943690505,Nothing
+15,5,Inoki,0.04302792452,Nothing
+16,6,Bob,-0.02318295091,Had ice cream
+17,6,Mary,0.549933275,Nothing
+18,6,Inoki,-0.1422800327,Nothing
+19,7,Bob,-0.7413006039,Nothing
+20,7,Mary,-0.06816384785,Nothing
+21,7,Inoki,-0.1404465037,Nothing
+22,8,Bob,0.02097312739,Nothing
+23,8,Mary,0.07636610326,Nothing
+24,8,Inoki,0.1476235715,Nothing
+25,9,Bob,0.3623761386,Nothing
+26,9,Mary,-0.2896907074,Nothing
+27,9,Inoki,-0.05410345574,Nothing
+28,10,Bob,0.2924583856,Nothing
+29,10,Mary,-0.3217027591,Nothing
+30,10,Inoki,-0.1115939042,Nothing
+31,11,Bob,0.1311871385,Nothing
+32,11,Mary,-0.2377063625,Nothing
+33,11,Inoki,0.4883364688,Had ice cream
+34,12,Bob,0.4125900998,Nothing
+35,12,Mary,0.9058381912,Nothing
+36,12,Inoki,1.668581131,Nothing
+37,13,Bob,-0.5540814665,Nothing
+38,13,Mary,0.2994185774,Nothing
+39,13,Inoki,0.6895089163,Had ice cream
+40,14,Bob,-0.9085015972,Nothing
+41,14,Mary,-0.006281321645,Nothing
+42,14,Inoki,0.05990180134,Nothing
+43,15,Bob,0.07074972914,Nothing
+44,15,Mary,-0.1929817569,Nothing
+45,15,Inoki,-0.6862423052,Nothing
+46,16,Bob,-0.4210812412,Nothing
+47,16,Mary,-0.03510508306,Nothing
+48,16,Inoki,-0.477790201,Nothing
+49,17,Bob,0.6098377086,Nothing
+50,17,Mary,-0.03577701021,Nothing
+51,17,Inoki,0.3259101282,Nothing
+52,18,Bob,-0.1256783151,Nothing
+53,18,Mary,0.4691679616,Nothing
+54,18,Inoki,-0.1773328089,Nothing
+55,19,Bob,0.1047975644,Nothing
+56,19,Mary,-0.2849800463,Had ice cream
+57,19,Inoki,-0.09846330548,Nothing
+58,20,Bob,0.1920738979,Nothing
+59,20,Mary,-0.02805357011,Nothing
+60,20,Inoki,-0.1798052074,Nothing
+61,21,Bob,-0.6929278512,Nothing
+62,21,Mary,-0.6773707825,Nothing
+63,21,Inoki,0.4320631369,Had ice cream
+64,22,Bob,-0.4505860168,Had ice cream
+65,22,Mary,-0.1411541808,Nothing
+66,22,Inoki,0.742092499,Had ice cream
+67,23,Bob,-0.4728356586,Nothing
+68,23,Mary,-0.005614436112,Nothing
+69,23,Inoki,-0.207669213,Nothing
+70,24,Bob,0.1617673903,Nothing
+71,24,Mary,-0.3219509542,Nothing
+72,24,Inoki,-0.6125439154,Nothing
+73,25,Bob,0.02770854782,Nothing
+74,25,Mary,0.3392693673,Nothing
+75,25,Inoki,0.8021945132,Nothing
+76,26,Bob,0.2614918902,Nothing
+77,26,Mary,-0.4706893905,Nothing
+78,26,Inoki,0.9601360824,Nothing
+79,27,Bob,0.7889297845,Nothing
+80,27,Mary,-0.4698848936,Nothing
+81,27,Inoki,0.7239159836,Nothing
+82,28,Bob,1.517889166,Nothing
+83,28,Mary,-0.05596158974,Nothing
+84,28,Inoki,-0.02362330992,Had ice cream
+85,29,Bob,0.2194356302,Nothing
+86,29,Mary,-0.7364941688,Nothing
+87,29,Inoki,0.160527711,Nothing
+88,30,Bob,0.7497326433,Nothing
+89,30,Mary,0.02293423556,Nothing
+90,30,Inoki,-0.3486226784,Nothing
